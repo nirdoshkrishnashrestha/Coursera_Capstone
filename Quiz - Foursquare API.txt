@@ -1,0 +1,41 @@
+What endpoint is used to explore what is near a particular location?
+the explore end point
+
+
+Which of the following parameters need to be passed every time you make a call to the Foursquare API?
+
+Your client ID.
+
+The version of the API.
+
+Your client secret.
+
+
+Using a personal (free) developer account, you can make 500 premium calls per day.
+True
+
+
+Using a personal (free) developer account, you can access 2 tips and 2 photos per venue.
+True
+
+
+Which of the following (information, call type) pairs are correct?
+
+Venue menu, Premium
+
+Venue tips, Premiun
+
+Venue details, Premium
+
+
+You only need to pass your credentials when making premium calls to the Foursquare API.
+False
+
+Using a personal (free) developer account, you can make 500 premium calls per hour.
+False
+
+Using a personal (free) developer account, you can access 1 tip and 1 photo per venue.
+False
+
+You can access a venue tips and photos through regular calls.
+False
