@@ -2,7 +2,7 @@
 Question 1
 
 What is/are the advantage/s of Recommender Systems ?
-3 points
+Answer is All of above. 
 
 Recommender Systems provide a better experience for the users by giving them a broader exposure to many different products they might be interested in.
 
@@ -10,7 +10,8 @@ Recommender Systems encourage users towards continual usage or purchase of their
 
 Recommender Systems benefit the service provider by increasing potential revenue and better security for its consumers.
 
-All of the above.
+Correct answer is :All of the above.
+
 
 Question 2
 
@@ -27,11 +28,13 @@ What is the meaning of "Cold start" in collaborative filtering?
 The difficulty in recommendation when we have new user, and we cannot make a profile for him, or when we have a new item, which has not got any rating yet.
 
 
+
 Question 4
 
 What is a "Memory-based" recommender system?
 
 In memory based approach, we use the entire user-item dataset to generate a recommendation system.
+
 
 
 Question 5
